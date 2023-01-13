@@ -1,6 +1,6 @@
 # Traffic-FF: A traffic assignment software considering multiple ridesharing services
 ## 1. Instructions
-It's developed based on **MATLAB** and **MATLAB APP Designer**.Traffic-FF is a software for predicting road traffic flows, which combines shared travel and is able to predict the travel flows on roads during a trip based on passenger travel demand and road information. Its mathematical basis is a a Ridesharing User Equilibrium Variational Inequality model, which satisfies the constraints of the RUE model and is mathematically built using variational inequality methods. To solve this problem effectively, Traffic-FF has developed a Parallel self-adaptive projection method incorporating column generation.
+Traffic-FF is an application used to predict traffic flow. It's developed based on **MATLAB** and **MATLAB APP Designer**.
 ## 2. Installation
 * __Necessary toolboxes__  
 `Parallel Computing Toolbox`  
